@@ -1,0 +1,12 @@
+Log Levels in printk
+-------------------------------------
+| Level          | Meaning          |
+| -------------- | ---------------- |
+| `KERN_EMERG`   | System crash     |
+| `KERN_ALERT`   | Immediate action |
+| `KERN_ERR`     | Error            |
+| `KERN_WARNING` | Warning          |
+| `KERN_NOTICE`  | Notice           |
+| `KERN_INFO`    | Information      |
+| `KERN_DEBUG`   | Debug            |
+-------------------------------------
