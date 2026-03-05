@@ -1,0 +1,1 @@
+EXPORT_SYMBOL() ==> This is used to export the function in the Kernel Symbol Table 
