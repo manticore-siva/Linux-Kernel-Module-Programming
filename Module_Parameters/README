@@ -1,0 +1,5 @@
+Kernel la module parameter declare
+
+module_param(name, type, permission);
+
+
